@@ -1,6 +1,6 @@
 # Hi, I'm Abdelrahman Mostafa 👋
 
-**Full-stack student developer from Cairo, Egypt.** I build mobile and web apps, mostly React Native/Expo on mobile and React on the web.
+**Full-stack student developer from 10th of Ramadan City, Egypt.** I build mobile and web apps, mostly React Native/Expo on mobile and React on the web.
 
 ## What I'm working on
 
