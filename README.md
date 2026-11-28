@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/3bdomos2afa/3bdomos2afa/main/assets/hero.svg" alt="قهوة عبد الرحمن البلدي" width="100%" />
+<img src="https://raw.githubusercontent.com/3bdomos2afa/3bdomos2afa/main/assets/hero.svg?v=2" alt="قهوة عبد الرحمن البلدي" width="100%" />
 
 <a href="https://github.com/3bdomos2afa">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=E0A458&center=true&vCenter=true&width=640&lines=%D8%A7%D8%AA%D9%81%D8%B6%D9%84+%D9%8A%D8%A7+%D8%A8%D8%A7%D8%B4%D8%A7+%E2%98%95;CS+student+%40+Sinai+University+%F0%9F%8E%93;%D8%A8%D8%B9%D9%85%D9%84+%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA+%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84+%D9%88%D9%88%D9%8A%D8%A8;shipping+%3E+perfecting+%F0%9F%9A%80" alt="Typing SVG" />
@@ -17,7 +17,7 @@
 ## ☕ المنيو
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/3bdomos2afa/3bdomos2afa/main/assets/terminal.svg" alt="menu" width="100%" />
+<img src="https://raw.githubusercontent.com/3bdomos2afa/3bdomos2afa/main/assets/terminal.svg?v=2" alt="menu" width="100%" />
 </div>
 
 ## 🪑 أطباق اليوم (مشاريعي)
@@ -32,7 +32,7 @@
 ## 🧰 العدة
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/3bdomos2afa/3bdomos2afa/main/assets/stack.svg" alt="stack" width="100%" />
+<img src="https://raw.githubusercontent.com/3bdomos2afa/3bdomos2afa/main/assets/stack.svg?v=2" alt="stack" width="100%" />
 </div>
 
 ## 🧾 الحساب (GitHub stats)
