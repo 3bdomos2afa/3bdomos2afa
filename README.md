@@ -1,31 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Abdelrahman%20Mostafa&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20React%20Native%20%7C%20React&descAlignY=60&descSize=18" alt="header" />
+<img src="https://raw.githubusercontent.com/3bdomos2afa/3bdomos2afa/main/assets/hero.svg" alt="Abdelrahman Mostafa" width="100%" />
 
 <a href="https://github.com/3bdomos2afa">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=640&lines=Hi+there!+I'm+Abdelrahman+%F0%9F%91%8B;CS+student+%40+Sinai+University+%F0%9F%8E%93;I+build+mobile+%26+web+apps+%F0%9F%93%B1%F0%9F%92%BB;React+Native+%7C+Expo+%7C+React+%7C+TypeScript;shipping+%3E+perfecting+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=640&lines=Hi+there!+I'm+Abdelrahman+%F0%9F%91%8B;CS+student+%40+Sinai+University+%F0%9F%8E%93;I+build+mobile+%26+web+apps+%F0%9F%93%B1%F0%9F%92%BB;shipping+%3E+perfecting+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=3bdomos2afa&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="views" />
 <a href="https://3bdomos2afa.github.io"><img src="https://img.shields.io/badge/Portfolio-3bdomos2afa.github.io-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio" /></a>
+<img src="https://img.shields.io/github/followers/3bdomos2afa?style=for-the-badge&logo=github&color=8957e5" alt="followers" />
 
 </div>
 
----
+## 💻 Terminal
 
-## 🧑‍💻 About me
-
-```js
-const abdelrahman = {
-  location: "10th of Ramadan City, Egypt 🇪🇬",
-  studying: "Computer Science @ Sinai University",
-  focus: ["Mobile apps", "Web apps", "Automation"],
-  currentlyBuilding: "SU-student, a student portal app",
-  funFact: "Probably debugging right now",
-};
-```
+<div align="center">
+<img src="https://raw.githubusercontent.com/3bdomos2afa/3bdomos2afa/main/assets/terminal.svg" alt="terminal" width="100%" />
+</div>
 
 ## 🚀 Featured projects
 
@@ -39,17 +32,11 @@ const abdelrahman = {
 ## 🛠️ Tech stack
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/3bdomos2afa/3bdomos2afa/main/assets/stack.svg" alt="stack" width="100%" />
+
+<br/>
 
 <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,tailwind,vite,vercel,github,git,postgres,figma,vscode&perline=12" alt="skills" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-
 </div>
 
 ## 📊 GitHub stats
@@ -61,6 +48,12 @@ const abdelrahman = {
 
 <img src="https://streak-stats.demolab.com?user=3bdomos2afa&theme=tokyonight&hide_border=true" alt="streak" />
 
+</div>
+
+## 🌆 3D contribution city
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/3bdomos2afa/3bdomos2afa/main/profile-3d-contrib/profile-night-view.svg" alt="3D contributions" width="100%" />
 </div>
 
 ## 🐍 Contribution snake
