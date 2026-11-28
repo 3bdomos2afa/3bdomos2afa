@@ -130,16 +130,6 @@ Interactive coding-challenge learning hub. [Repo](https://github.com/3bdomos2afa
 
 <img src="https://streak-stats.demolab.com?user=3bdomos2afa&theme=tokyonight&border=7C3AED" alt="streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=3bdomos2afa&theme=tokyonight&hide_border=true&area=true&color=b99cff&line=7c3aed&point=ffffff" alt="activity graph" width="100%" />
-
-</div>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=3bdomos2afa&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies" />
-
 </div>
 
 ## 🐍 Contribution Snake
