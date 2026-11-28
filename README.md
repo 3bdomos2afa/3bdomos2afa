@@ -43,9 +43,16 @@ const abdelrahman = {
 ```
 
 </td>
-<td width="38%" align="center">
+<td width="38%" valign="top">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1500&color=B99CFF&center=true&vCenter=true&width=300&height=140&lines=Code+is+like+humor.;When+you+have+to+explain+it%2C;it%E2%80%99s+bad." alt="quote" />
+#### ⚡ Quick Facts
+
+- 🎓 CS @ Sinai University
+- 📱 Building mobile apps with Expo
+- 🌐 Web: React, Vite, TypeScript
+- 🗄️ Backend: Node.js + PostgreSQL
+- 🚀 Motto: shipping > perfecting
+- 🐛 Probably debugging right now
 
 </td>
 </tr>
